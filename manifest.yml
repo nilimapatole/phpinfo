@@ -1,4 +1,5 @@
 ---
 applications:
 - name: phpinfo
+ random-route: true
   memory: 128M
